@@ -1,0 +1,2 @@
+Frontend Deployment Link:-   https://quantityapp.netlify.app
+Backend Deployment Link:-    https://quantityapp-api.onrender.com/
