@@ -1,6 +1,0 @@
-@QuantityMeasurement.AuthService_HostAddress = http://localhost:5250
-
-GET {{QuantityMeasurement.AuthService_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
