@@ -5,6 +5,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantityMeasurement.Tests", "QuantityMeasurement.Tests\QuantityMeasurement.Tests.csproj", "{CF8D0A70-561B-DEA5-8C01-AEF9A3B7B51C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantityMeasurementApp", "QuantityMeasurementApp\QuantityMeasurementApp.csproj", "{541D41C3-4B17-B02F-1241-96EDE8C8F6F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantityMeasurementApp", "QuantityMeasurementApp.csproj", "{7974F22C-0322-9893-0B58-EF67E60E7AC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,11 +21,16 @@ Global
 		{541D41C3-4B17-B02F-1241-96EDE8C8F6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{541D41C3-4B17-B02F-1241-96EDE8C8F6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{541D41C3-4B17-B02F-1241-96EDE8C8F6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7974F22C-0322-9893-0B58-EF67E60E7AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7974F22C-0322-9893-0B58-EF67E60E7AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7974F22C-0322-9893-0B58-EF67E60E7AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7974F22C-0322-9893-0B58-EF67E60E7AC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33DB5696-AF34-44FE-BBC5-D94D1834674F}
+		SolutionGuid = {B9295B22-0A11-4C0D-B851-B127C0ABB412}
 	EndGlobalSection
 EndGlobal
